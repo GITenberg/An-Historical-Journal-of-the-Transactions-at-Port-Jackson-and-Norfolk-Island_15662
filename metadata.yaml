@@ -4,7 +4,7 @@ contributor:
   contributors:
   - agent_name: Phillip, Arthur
     alias: Philipp, Arthur
-    birthdate: &id001 1738
+    birthdate: 1738
     deathdate: 1814
     gutenberg_agent_id: '5854'
     url: http://www.gutenberg.org/2009/agents/5854
@@ -20,11 +20,13 @@ covers:
 creator:
   author:
     agent_name: Hunter, John
-    birthdate: *id001
+    birthdate: 1738
     deathdate: 1821
     gutenberg_agent_id: '6184'
     url: http://www.gutenberg.org/2009/agents/6184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15662#An-Historical-Journal-of-the-Transactions-at-Port-Jackson-and-Norfolk-Island
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2005-04-20'
 gutenberg_type: Text
