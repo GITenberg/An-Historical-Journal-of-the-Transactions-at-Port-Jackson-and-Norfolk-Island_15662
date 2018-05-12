@@ -1,0 +1,41 @@
+_repo: An-Historical-Journal-of-the-Transactions-at-Port-Jackson-and-Norfolk-Island_15662
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Phillip, Arthur
+    alias: Philipp, Arthur
+    birthdate: &id001 1738
+    deathdate: 1814
+    gutenberg_agent_id: '5854'
+    url: http://www.gutenberg.org/2009/agents/5854
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Phillip
+  - agent_name: King, Philip Gidley
+    birthdate: 1758
+    deathdate: 1808
+    gutenberg_agent_id: '31941'
+    url: http://www.gutenberg.org/2009/agents/31941
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hunter, John
+    birthdate: *id001
+    deathdate: 1821
+    gutenberg_agent_id: '6184'
+    url: http://www.gutenberg.org/2009/agents/6184
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2005-04-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15662'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'New South Wales -- History -- Sources'
+title: An Historical Journal of the Transactions at Port Jackson and Norfolk Island
+url: http://www.gutenberg.org/ebooks/15662
